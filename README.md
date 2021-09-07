@@ -1,4 +1,4 @@
-# [Anything SL SUB Count WEB](subcnt.hansakabro.tk)
+# [Anything SL SUB Count WEB](https://hansakabro.tk/subcount/)
 
 
 ### Made with [Chanux Bro](https://www.chanuxbro.com)
